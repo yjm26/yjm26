@@ -1,67 +1,47 @@
-<h1 align="center">Hi 👋, I'm Rivaldo</h1>
-<h3 align="center">A passionate frontend developer /h3>
+<h1 align="center">Hi, I'm Rivaldo</h1>
+<h3 align="center">Frontend Developer | Informatics Engineering Student</h3>
 
 <p align="center">
-🎓 Student of <strong>Informatics Engineering</strong> at <strong>Universitas Pamulang</strong><br/>
-💻 Focused on frontend development using modern technologies<br/>
-🌱 Exploring backend development with Express.js & MySQL<br/>
-🤝 Open for open-source contributions and collaboration
+I'm an Informatics Engineering student at Universitas Pamulang with a strong focus on frontend development.  
+I specialize in building clean, responsive user interfaces and currently expanding my knowledge in backend technologies using Express.js and MySQL.  
+Open to collaboration, freelance opportunities, and contributing to open-source projects.
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"/>
 </p>
 
 ---
 
-### 📬 Connect with Me:
+### Contact
 
 - 📧 Email: [rivaldojntr@gmail.com](mailto:rivaldojntr@gmail.com)  
-- 📷 Instagram: [@rivaldojt](https://instagram.com/rivaldojt)
+- 📱 Instagram: [@rivaldojt](https://instagram.com/rivaldojt)
 
 ---
 
-### 🌟 Quick Facts
-- 🔭 Currently working on small-to-mid scale web projects
-- ⚡ Enjoy crafting modern, clean, and responsive UI/UX
-- 👨‍💻 Open to collaboration and contributing to open-source projects
-- 🧠 Always learning something new in web development
+### About Me
+
+- Passionate about modern web development with a focus on usability and performance  
+- Currently learning backend fundamentals with Express.js and MySQL  
+- Open to open-source contributions and meaningful collaborations  
+- Always exploring new tools, frameworks, and best practices to grow as a developer
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yjm26&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=yjm26&style=flat-square&color=gray" alt="Profile Views"/>
 </p>
