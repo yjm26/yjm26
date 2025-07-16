@@ -1,49 +1,40 @@
-<h1 align="center">Hi, I'm Rivaldo</h1>
-<h3 align="center">Frontend Developer | Informatics Engineering Student</h3>
+# Rivaldo Janter Tampubolon — @yjm26
 
-<p align="center">
-I'm an Informatics Engineering student at Universitas Pamulang with a strong focus on frontend development.  
-I specialize in building clean, responsive user interfaces and currently expanding my knowledge in backend technologies using Express.js, Node.js, and MySQL.  
-Open to collaboration, freelance opportunities, and contributing to open-source projects.
-</p>
+Hi, I'm Rivaldo — a frontend-focused developer and Informatics Engineering student based in Indonesia.  
+I enjoy building clean, responsive, and accessible web interfaces.  
+Currently expanding my skills into backend technologies such as Node.js, Express, and MySQL.  
+I'm open to open-source contributions, freelance opportunities, and collaborative tech projects.
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, Tailwind CSS, HTML5, CSS3, JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express.js, MySQL</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Figma, Git, Visual Studio Code</td>
-  </tr>
-</table>
+- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="20"/> **React** – Frontend framework I use for building dynamic UI
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20"/> **Tailwind CSS** – Utility-first CSS for fast and modern styling
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> **HTML5** – Standard for structuring web content
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> **CSS3** – Styling with flexibility and animations
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> **JavaScript** – My main scripting language
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js** – Runtime for backend services
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="20"/> **Express.js** – Web framework for Node.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> **MySQL** – Relational database I use for structured data
+- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20"/> **Figma** – UI/UX design tool for prototyping interfaces
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> **VS Code** – My daily code editor
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"/> **Git** – Version control for all my work
 
 ---
 
-### 📬 Contact
+## How I work
+
+I approach software development with a focus on clarity, maintainability, and user experience.  
+I enjoy building UI systems that scale and follow best practices.  
+Writing clean code and keeping things modular are core to how I structure my work.
+
+---
+
+## Get in touch
 
 - Email: [rivaldojntr@gmail.com](mailto:rivaldojntr@gmail.com)  
 - Instagram: [@rivaldojt](https://instagram.com/rivaldojt)
 
 ---
 
-### 📌 About Me
-
-- Focused on frontend development using React and Tailwind  
-- Currently learning backend development (Node.js + Express)  
-- Open to open-source contribution and collaborative projects  
-- Always exploring clean code principles, modular UI, and performance best practices
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yjm26&style=flat-square&color=gray" alt="Profile Views"/>
-</p>
