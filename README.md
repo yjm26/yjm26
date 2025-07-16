@@ -40,7 +40,3 @@
 - 🌍 I'm open to contributing to **open-source projects**, especially related to web technologies.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yjm26&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
